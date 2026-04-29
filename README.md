@@ -6,7 +6,7 @@ ding keeps Claude Code's native terminal UI intact, while a small always-on-top 
 
 Have you ever left Claude Code running in the background, only to find out much later that it was stuck on a permission-required prompt from a compound command?
 
-With ding, you can keep vibecoding while watching YouTube, reading docs, or working in another window. If Claude Code needs your permission, a choice, or any other blocking action, ding floats above your workspace and tells you immediately.
+With ding, you can keep vibecoding while watching YouTube, reading docs, or working in another window. If Claude Code needs your permission, a choice, or any other blocking action, ding floats above your workspace and tells you immediately and you can interactive with your claude-code instance through ding's floating window.
 
 ## Demos
 
