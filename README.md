@@ -1,4 +1,4 @@
-# ding
+# ding (claude-code-watcher)
 
 **A floating permission monitor for Claude Code CLI.**
 
